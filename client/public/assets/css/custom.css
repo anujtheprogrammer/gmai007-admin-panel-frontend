@@ -1,0 +1,11 @@
+.login-root{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+.login-card{
+    background-image: url("../img/quiz-intro-image-2000x1720.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 20px;
+}
